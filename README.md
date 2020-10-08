@@ -2,7 +2,7 @@
 <body>
   <h2>HB’s Sunglasses, Pillow and Headphone Sorter</h2>
   <a href="https://editor.p5js.org/21berrha/present/GZwJo7k76">
-    <img width=300 src="https://user-images.githubusercontent.com/7727226/95097467-843bc680-06fb-11eb-9144-b4e4b854ecfb.jpg">
+    <img width=300 src="https://user-images.githubusercontent.com/7727226/95479396-b5fd9900-0958-11eb-93a9-4d6a211dc655.png">
   </a>
   <hr>
   <h2>AI's Notebook, Pencil Case and Water Bottle Identifier</h2>
